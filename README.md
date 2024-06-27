@@ -1,3 +1,5 @@
+
+
 <h2>Hello 👋, I'm <a">camelCase0</a></h2>
 
 I am a versatile developer💻 with a passion for both `DevOps` and backend development. With a strong foundation in `.NET` technologies, I excel in creating robust and scalable solutions for various applications. My expertise extends to `Python` backend development, where I leverage its versatility and efficiency to build efficient `APIs` and backend systems. I thrive in dynamic environments where problem-solving and continuous improvement are key. My goal is to leverage my skills to contribute to cutting-edge projects that make a meaningful impact in the tech industry.
@@ -42,9 +44,20 @@ Most of my works are private🔏, so I made several open projects to demonstrate
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="github" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/githubactions/githubactions-original.svg" alt="actions" width="25" height="25" />
 </p>
-## Statistics
+<h2> Statistics</h2>
+
+<table>
+<tr>
+<td width="50%"">
 <img src="https://github-readme-stats.vercel.app/api?username=camelCase0&show_icons=true&count_private=true" alt="camelCase0" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camelCase0&layout=compact" alt="camelCase0">
+</td>
 
-<p><a href="http://hits.dwyl.com/camelCase0/camelCase0/camelCase0.svg?style=flat-square"><img src="https://hits.dwyl.com/camelCase0/camelCase0/camelCase0.svg?style=flat-square" alt="HitCount"></a></p>
+</tr>
+</table>
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=camelCase0&layout=compact)
+
+
+
