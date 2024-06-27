@@ -87,11 +87,12 @@ Most of my works are private🔏, so I made several open projects to demonstrate
 
 <h2>🗃️Projects</h2>
 <details>
-  <summary>Markdown</summary>
+  <summary><h2>API</h2></summary>
 
-- [x] [`BludsFast💉🩸`](https://github.com/camelCase0/BludsFast)
--  [Project2](https://github.com/camelCase0/camelCase0/)
--  [Project3](https://github.com/camelCase0/camelCase0/)
+- [x] [**BludsFast💉🩸**](https://github.com/camelCase0/BludsFast)
+- [x] [**Int20-Auction**](https://github.com/camelCase0/int20-auction)
+- [x] [**FastAPI demo**](https://github.com/camelCase0/fastapi-trade)
+- [x] [**mealApi**](https://github.com/camelCase0/mealApi)
 
 </details>
 
