@@ -46,3 +46,5 @@ Most of my works are private🔏, so I made several open projects to demonstrate
 <img src="https://github-readme-stats.vercel.app/api?username=camelCase0&show_icons=true&count_private=true" alt="camelCase0" />
 
 <p><a href="http://hits.dwyl.com/camelCase0/camelCase0/camelCase0.svg?style=flat-square"><img src="https://hits.dwyl.com/camelCase0/camelCase0/camelCase0.svg?style=flat-square" alt="HitCount"></a></p>
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=camelCase0&layout=compact)
