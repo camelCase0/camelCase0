@@ -74,10 +74,18 @@ Most of my works are private🔏, so I made several open projects to demonstrate
 
 
 <h2> :chart_with_upwards_trend: Statistics</h2>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camelCase0&layout=donut-vertical&hide_border=true" alt="camelCase0">
+    </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=camelCase0&show_icons=true&count_private=true&card_width=400&hide_border=true" alt="camelCase0" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=camelCase0&show_icons=true&count_private=true" alt="camelCase0" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camelCase0&layout=compact" alt="camelCase0">
 
 
 
