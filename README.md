@@ -85,6 +85,15 @@ Most of my works are private🔏, so I made several open projects to demonstrate
   </tr>
 </table>
 
+<h2>🗃️Projects</h2>
+<details>
+  <summary>Markdown</summary>
+
+-  <kbd>[Projects1](https://github.com/camelCase0/camelCase0/)</kbd>
+-  <kbd>[Project2](https://github.com/camelCase0/camelCase0/)</kbd>
+-  <kbd>[Project3](https://github.com/camelCase0/camelCase0/)</kbd>
+
+</details>
 
 
 
