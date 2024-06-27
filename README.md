@@ -42,5 +42,7 @@ Most of my works are private🔏, so I made several open projects to demonstrate
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="github" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/githubactions/githubactions-original.svg" alt="actions" width="25" height="25" />
 </p>
+## Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=camelCase0&show_icons=true&count_private=true" alt="camelCase0" />
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=vovaddk&layout=compact)
 <p><a href="http://hits.dwyl.com/camelCase0/camelCase0/camelCase0.svg?style=flat-square"><img src="https://hits.dwyl.com/camelCase0/camelCase0/camelCase0.svg?style=flat-square" alt="HitCount"></a></p>
