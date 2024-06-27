@@ -89,9 +89,9 @@ Most of my works are private🔏, so I made several open projects to demonstrate
 <details>
   <summary>Markdown</summary>
 
--  <kbd>[Projects1](https://github.com/camelCase0/camelCase0/)</kbd>
--  <kbd>[Project2](https://github.com/camelCase0/camelCase0/)</kbd>
--  <kbd>[Project3](https://github.com/camelCase0/camelCase0/)</kbd>
+- [x] [`BludsFast💉🩸`](https://github.com/camelCase0/BludsFast)
+-  [Project2](https://github.com/camelCase0/camelCase0/)
+-  [Project3](https://github.com/camelCase0/camelCase0/)
 
 </details>
 
