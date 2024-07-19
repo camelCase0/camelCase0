@@ -92,7 +92,7 @@ Most of my works are private🔏, so I made several open projects to demonstrate
 - [x] [**BludsFast💉🩸**](https://github.com/camelCase0/BludsFast)
 - [x] [**Int20-Auction**](https://github.com/camelCase0/int20-auction)
 - [x] [**FastAPI demo**](https://github.com/camelCase0/fastapi-trade)
-- [x] [**mealApi**](https://github.com/camelCase0/mealApi)
+- [x] [**mealApi👨‍🍳**](https://github.com/camelCase0/mealApi)
 - [ ] [**And others . . .**](https://github.com/camelCase0?tab=repositories)
 </details>
 
