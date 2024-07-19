@@ -101,6 +101,7 @@ Most of my works are private🔏, so I made several open projects to demonstrate
 
 - [x] [**CryptoRGR 🔏**](https://github.com/camelCase0/CryptoRGR))
 - [x] [**cypherPostQuantum 🧮**](https://github.com/camelCase0/cypherPostQuantum)
+- [x] [**Primary attack**](https://github.com/camelCase0/primary-attack)
 
 </details>
 
