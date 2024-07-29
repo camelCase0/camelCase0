@@ -108,8 +108,7 @@ Most of my works are private🔏, so I made several open projects to demonstrate
 <details>
   <summary><h2>FrontEnd</h2></summary>
   
-- [x] [**MealApp**](https://camelcase0.github.io/meal-front)
-- [ ] 
+- [x] [**MealApp**](https://github.com/camelCase0/meal-front)
 </details>
 
 
