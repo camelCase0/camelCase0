@@ -109,6 +109,7 @@ Most of my works are private🔏, so I made several open projects to demonstrate
   <summary><h2>FrontEnd</h2></summary>
   
 - [x] [**MealApp**](https://github.com/camelCase0/meal-front)
+- [x] [**StarDB**](https://github.com/camelCase0/star-db)
 </details>
 
 
